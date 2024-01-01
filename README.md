@@ -11,6 +11,8 @@ Experienced professional with a diverse background spanning over 13 years in the
 * 🧠  I'm learning Kubernetes Security and System Design
 * 🤝  I'm open to collaborating on DevOps tools and System Design
 
+<a href="https://www.github.com/nafasat" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/nafasat?logo=github&style=for-the-badge&color=a855f7&labelColor=22272e" /></a>
 ### Skills
 
 <p align="left">
@@ -31,7 +33,3 @@ Experienced professional with a diverse background spanning over 13 years in the
 <a href="http://www.github.com/nafasat"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=nafasat&bg_color=22272e&color=3382ed&line=a855f7&point=3382ed&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/nafasat" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafasat&langs_count=10&title_color=22c55e&text_color=3382ed&icon_color=a855f7&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
